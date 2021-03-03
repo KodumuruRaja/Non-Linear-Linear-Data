@@ -1,1 +1,1 @@
-# Linear Non-Linear-Data
+# Linear or Non-Linear Data
